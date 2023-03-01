@@ -8,3 +8,6 @@ at:
 https://www.c-sharpcorner.com/article/signalr-introduction-and-implementation-using-the-net-core-6-web-api-and-angula/
 
 dotnet run and open http://localhost:YOOUR_PORT/swagger/index.html
+
+
+The project Angular Cliente is SignalRClient
